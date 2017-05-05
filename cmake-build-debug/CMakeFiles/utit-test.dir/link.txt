@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/utit-test.dir/test_main.cpp.o  -o utit-test 

@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/Shop.dir/main.cpp.o CMakeFiles/Shop.dir/classes/cpp/Manager.cpp.o CMakeFiles/Shop.dir/classes/cpp/Order.cpp.o CMakeFiles/Shop.dir/classes/cpp/Item.cpp.o CMakeFiles/Shop.dir/classes/cpp/Cash.cpp.o CMakeFiles/Shop.dir/classes/cpp/Stock.cpp.o  -o Shop 

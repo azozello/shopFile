@@ -1,0 +1,1 @@
+/usr/bin/c++   -g     -o unit-test -lgtest -lgtest_main -lrt -lpthread libcodeToTest.a 
